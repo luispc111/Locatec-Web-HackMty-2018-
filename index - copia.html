@@ -7,23 +7,27 @@
 </head>
 <body>
 
-	<h1>Locatec<b>Web</b>
-            <a href="LogIn.html"><button type="button" class="btn btn-primary" style="align right: ">Cerrar Sesión</button></a>
-    <br><h2>Paso 2:</h2></h1>
+	<h1>Locatec<b>Web</b><br><h2>Paso 2:</h2></h1>
 
 	<form action="/action_page.php">
 		<div class="form-group">
-            <label for="sel1"><b>Selecciona</b>: la categoría en la que se ubica lo que estas buscando.</label>
-                <select class="form-control" id="sel1">
-                <option id="0">-</option>
-                <option id="1">Laptop</option>
-                <option id="2">Celular</option>
-                <option id="3">Mochila</option>
-                <option id="4">Cargador</option>
-                <option id="5">Otro</option>
-            </select>
+            <!-- Create dropdown and add specific class '.thenumbers' to ul element -->
+            <div class="dropdown">
+                <div class="dropdown-toggle somename1" data-toggle="dropdown"id="menu1"></div>
+                <ul class="dropdown-menu myclass numberom1 thenumbers" aria-labelledby="menu1" name="thenumbers">
+                    <li value="one">One</li>
+                    <li value="two">Two</li>
+                    <li value="three">Three</li>
+                    <li value="four">Four</li>
+                    <li value="five">Five</li>
+                </ul>
+            </div>
+
+            <!-- Create a hidden input -->
+            <input type='hidden' name='thenumbers'>
+ 
 		</div>
-		<label for="text"><b>Fecha</b>: DD/MM/AAAA</label>
+		<label for="text">Fecha</label>
 		<div class="form-group row">
 			<div class="col-xs-2">
 			  <input class="form-control" placeholder="Día" id="ex1" type="text">
@@ -36,15 +40,10 @@
 			</div>
 		</div>
 		<div class="form-group">
-	  		<label for="text"><b>Descripción</b>: En un texto corto indica todo lo que recuerdes de tu objeto perdido, tanto fecha de perdida, lugar y características. Esto es importante para encontrar lo que estas buscando.</label>
+	  		<label for="text">Descripción</label>
 	  		<textarea class="form-control" rows="5" id="descripcion"></textarea>
-            <br>
-
-            <a href="TablaHTML.html"><button type="button" class="btn btn-primary btn-lg btn-block">Enviar y ver objetos perdidos</button></a>
-
-
-
 		</div>
+		<a href="TablaHTML.html"><button type="button" class="btn btn-primary">Enviar</button></a>
 	</form>
 
 </body>
@@ -272,7 +271,5 @@ function buscarNuevoObjetoPerdido (objetoNuevo) { //COMPLETAR FUNCION ----------
     }
 }
 */	
-
-
-
+</script>
 </html>
