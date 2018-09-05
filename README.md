@@ -2,7 +2,7 @@
 
 **A better experience for the lost and found service.**
 
-> Intro
+> Intro:
 "Locatec" is a physical space within my university, where all the lost and found arrives. 
 If you lose something, you have to give yourself the task of visiting the establishment concurrently to see if your lost object arrives.
 
@@ -13,6 +13,7 @@ LocatecWeb took a manual system that already works, and improved it using techno
 - Back-end: JavaScript.
 
 > How can I try?
+
 Download the whole repository and open "LogIn.html on any browser.
 
 **Una mejora a la experiencia del sistema de objetos perdidos.**
@@ -29,5 +30,6 @@ LocatecWeb tomo un sistema manual que ya funciona, y lo mejoró utilizando tecno
 - Back-end: JavaScript.
 
 > ¿Cómo usarlo?
+
 Descarga el repositorio completo y abre "LogIn.html" en cualquier navegador.
 
