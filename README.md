@@ -1,6 +1,6 @@
 # LocatecWeb (HackMty 2018)
 
-## A better experience for the lost items' service.
+> A better experience for the lost items' service.
 ...
 
 ## Una mejora a la experiencia del sistema de objetos perdidos.
