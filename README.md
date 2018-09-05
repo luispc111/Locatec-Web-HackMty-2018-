@@ -5,8 +5,11 @@
 > Intro
 ...
 
-> Technical
-> Intructions
+> Technical:
+- Front-end: HTML + CSS & Bootstrap.
+- Back-end: JavaScript.
+
+> How to start:
 
 
 
@@ -19,10 +22,10 @@
 LocatecWeb tomo un sistema que ya funciona, y lo mejoró utilizando tecnología. En este tu...
 
 > Technical:
-- Front-end:
-- Back-end:
+- Front-end: HTML + CSS & Bootstrap.
+- Back-end: JavaScript.
 
-> Instrucciones:
+> ¿Cómo usarlo?:
 
 
 
