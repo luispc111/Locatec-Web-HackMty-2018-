@@ -9,11 +9,9 @@
 - Front-end: HTML + CSS & Bootstrap.
 - Back-end: JavaScript.
 
-> How to start:
-
+> How can I try?
 
 ---
-
 
 **Una mejora a la experiencia del sistema de objetos perdidos.**
 
@@ -28,7 +26,7 @@ LocatecWeb tomo un sistema que ya funciona, y lo mejoró utilizando tecnología.
 - Front-end: HTML + CSS & Bootstrap.
 - Back-end: JavaScript.
 
-> ¿Cómo usarlo?:
+> ¿Cómo usarlo?
 
 
 
