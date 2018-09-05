@@ -17,6 +17,8 @@ LocatecWeb took a manual system that already works, and improved it using techno
 
 Download the whole repository and open "LogIn.html on any browser.
 
+---
+
 ## Una mejora a la experiencia del sistema de objetos perdidos.
 
 > Introducción:
